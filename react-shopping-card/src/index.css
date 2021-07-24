@@ -1,0 +1,56 @@
+html{
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+.wrapper {
+  height: 100vh;
+  display: flex;  
+  flex-direction: column;
+}
+
+
+footer {
+  height: 5vh;
+}
+
+main {
+  flex: 1;
+}
+
+body {
+  margin: 0px;
+}
+body, 
+input,
+select,
+textarea{
+  font-size: 1.6rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  background-color: hsl(210, 33%, 19%);
+  color: rgb(241, 233, 233) ;
+  display: flex;
+  height: 5vh;
+  padding: .5rem;
+  padding-top: 1.4rem;
+}
+ header a{
+  color: rgb(241, 233, 233);
+  text-decoration: none;
+}
+a:hover{
+  color: #ff8000;
+}
+
+main {
+  background-color:#ecf0f1;
+}
+
+footer {
+  background-color:hsl(210, 33%, 19%);;
+  color:white;
+  text-align: center;
+  padding: .5rem;
+}
