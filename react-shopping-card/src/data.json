@@ -1,0 +1,73 @@
+{
+    "products": [
+        {
+            "_id": "dress1",
+            "image": "/images/dress1.jpg",
+            "title": "Midi sundress with sharing details",
+            "description": "this is for all the latest trends",
+            "availabelSize": [
+                "xl",
+                "xxl"
+            ],
+            "price": "19"
+        },
+        {
+            "_id": "dress2",
+            "image": "/images/dress2.jpg",
+            "title": "Midi sundress with rich front",
+            "description": "this is for all the latest trends",
+            "availabelSize": [
+                "X",
+                "M",
+                "L"
+            ],
+            "price": "18.9"
+        },
+        {
+            "_id": "dress3",
+            "image": "/images/dress3.jpg",
+            "title": "Midi sundress with sharing details",
+            "description": "this is for all the latest trends",
+            "availabelSize": [
+                "M",
+                "xl",
+                "xxl"
+            ],
+            "price": "20"
+        },
+        {
+            "_id": "dress4",
+            "image": "/images/dress4.jpg",
+            "title": "Midi sundress with sharing details",
+            "description": "this is for all the latest trends",
+            "availabelSize": [
+                "M",
+                "L",
+                "xl",
+                "xxl"
+            ],
+            "price": "21"
+        },
+        {
+            "_id": "dress5",
+            "image": "/images/dress5.jpg",
+            "title": "Midi sundress with sharing details",
+            "description": "this is for all the latest trends",
+            "availabelSize": [
+                "L",
+                "xxl"
+            ],
+            "price": "25"
+        },
+        {
+            "_id": "dress6",
+            "image": "/images/dress6.jpg",
+            "title": "Midi sundress with sharing details",
+            "description": "this is for all the latest trends",
+            "availabelSize": [
+                "xxl"
+            ],
+            "price": "15"
+        }
+    ]
+}
