@@ -6,8 +6,9 @@
             "title": "Midi sundress with sharing details",
             "description": "this is for all the latest trends",
             "availabelSize": [
-                "xl",
-                "xxl"
+                "S",
+                "L",
+                "XL"
             ],
             "price": "19"
         },
@@ -17,9 +18,9 @@
             "title": "Midi sundress with rich front",
             "description": "this is for all the latest trends",
             "availabelSize": [
-                "X",
                 "M",
-                "L"
+                "L",
+                "XL"
             ],
             "price": "18.9"
         },
@@ -29,9 +30,9 @@
             "title": "Midi sundress with sharing details",
             "description": "this is for all the latest trends",
             "availabelSize": [
-                "M",
-                "xl",
-                "xxl"
+                "S",
+                "XL"
+                
             ],
             "price": "20"
         },
@@ -41,10 +42,9 @@
             "title": "Midi sundress with sharing details",
             "description": "this is for all the latest trends",
             "availabelSize": [
-                "M",
-                "L",
-                "xl",
-                "xxl"
+                
+                "XL"
+                
             ],
             "price": "21"
         },
@@ -54,8 +54,8 @@
             "title": "Midi sundress with sharing details",
             "description": "this is for all the latest trends",
             "availabelSize": [
-                "L",
-                "xxl"
+                "M"
+                
             ],
             "price": "25"
         },
@@ -65,7 +65,8 @@
             "title": "Midi sundress with sharing details",
             "description": "this is for all the latest trends",
             "availabelSize": [
-                "xxl"
+                "S",
+                "M"
             ],
             "price": "15"
         }
